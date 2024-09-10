@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BonkMonster/1.0.0": {
+        "runtime": {
+          "BonkMonster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonkMonster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\bin\Debug\net8.0\BonkMonster.exe
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\bin\Debug\net8.0\BonkMonster.deps.json
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\bin\Debug\net8.0\BonkMonster.runtimeconfig.json
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\bin\Debug\net8.0\BonkMonster.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\bin\Debug\net8.0\BonkMonster.pdb
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.AssemblyInfoInputs.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.AssemblyInfo.cs
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.csproj.CoreCompileInputs.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\refint\BonkMonster.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.pdb
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.genruntimeconfig.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\ref\BonkMonster.dll
