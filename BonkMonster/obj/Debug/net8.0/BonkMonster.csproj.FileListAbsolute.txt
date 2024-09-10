@@ -12,3 +12,4 @@ c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\refi
 c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.pdb
 c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.genruntimeconfig.cache
 c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\ref\BonkMonster.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\BonkMonster\BonkMonster\obj\Debug\net8.0\BonkMonster.sourcelink.json
