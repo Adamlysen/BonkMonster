@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BonkMonster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82b25bb8d6cb02021e33127042285a0dc0cf199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c720fb36f3a7ab5ed5083c6708e41341d72770")]
 [assembly: System.Reflection.AssemblyProductAttribute("BonkMonster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BonkMonster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
